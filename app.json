@@ -3,6 +3,7 @@
     "name": "chat-supabase-app",
     "slug": "chat-supabase-app",
     "version": "1.0.0",
+    "scheme": "com.supabase",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
